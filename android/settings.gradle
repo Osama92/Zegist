@@ -1,0 +1,3 @@
+rootProject.name = 'Zegist'
+
+include ':app'
